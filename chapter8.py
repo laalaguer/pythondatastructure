@@ -254,4 +254,3 @@ class LinkedBinaryTree(BinaryTree):
 		# delete the node, let it parent point to itself
 		node.parent = node
 		return node.element
-
